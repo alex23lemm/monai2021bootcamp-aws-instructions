@@ -1,13 +1,21 @@
 # monai2021bootcamp-aws-instructions
 
-These setup instructions describe on how to access the AWS accounts for the third day of the [MONAI MICCAI Bootcamp 2021](https://gpuhackathons.org/event/monai-miccai-bootcamp-2021). Each account will be shared by two users and every user will launch a dedicated GPU-based Jupyter server to work on the ML challenges. 
+These setup instructions describe how to access the AWS accounts for the third day of the [MONAI MICCAI Bootcamp 2021](https://gpuhackathons.org/event/monai-miccai-bootcamp-2021). Each account will be shared by two users and every user will launch a dedicated GPU-based SageMaker notebook instance to work on the ML challenges. 
 
 
 ## Accessing your AWS account
 
-* Go to https://dashboard.eventengine.run/login and enter the event hash you have received via email
+* Go to https://dashboard.eventengine.run/login and enter the event hash you have received via email and click on **Accept Terms & Login**:
 
-![image](https://user-images.githubusercontent.com/611112/134417248-4aee58cb-c4fd-4870-b220-84f794eef1b1.png)
+![image](https://user-images.githubusercontent.com/611112/134424302-d4cd964d-e77a-4d44-bcf5-54d623694454.png)
+
+* On the next page, click on **Email One-Time Password (OTP)**:
+
+![image](https://user-images.githubusercontent.com/611112/134424689-145d499e-7788-4933-807a-36bf633e5d51.png)
+
+* Enter the email address, which you used when you registered for the bootcamp an 
+
+![image](https://user-images.githubusercontent.com/611112/134425434-5ac86a21-4c63-4adb-b144-dfaa457a090a.png)
 
 * In the next window, click on **AWS Console**:
 
@@ -17,7 +25,7 @@ These setup instructions describe on how to access the AWS accounts for the thir
 
 ![image](https://user-images.githubusercontent.com/611112/134417890-13ba1ba7-c090-4fa6-bbfa-8a5472381228.png)
 
-* Congratulations, you accessed your AWS account, which you will use for the rest of the day. Now, we need to make sure to launch your own Jupyter server.
+* Congratulations, you have accessed your AWS account, which you will use for the rest of the day. Now, we need to make sure to launch your own Jupyter server.
 
 ## Launching your pre-configured SageMaker Notebook instance 
 
@@ -45,7 +53,7 @@ These setup instructions describe on how to access the AWS accounts for the thir
 
 ![image](https://user-images.githubusercontent.com/611112/134420704-5ec5face-e098-4474-921a-c619cb6a1997.png)
 
-* In the list of notebook instances, you will see the instance you just started via service catalog. If your instance is not yet in status "InService", just wait 1-2 minutes until the server was completely launched. Click on Open **Jupyter Lab**, which will open your Jupyter Lab environment in a separate tab. 
+* In the list of notebook instances, you will see the instance you just started via service catalog. If your instance is not yet in status "InService", just wait 1-2 minutes until the server was completely launched. Click on **Open Jupyter Lab**, which will open your Jupyter Lab environment in a separate tab. 
  
 ![image](https://user-images.githubusercontent.com/611112/134421324-34b9edf2-5169-406e-af1a-c5050ce92c4e.png)
 
