@@ -41,7 +41,7 @@ These setup instructions describe how to access the AWS accounts for the third d
 
 ![image](https://user-images.githubusercontent.com/611112/134419214-c6b12074-f91c-4ff8-9227-daa82c3fc439.png)
 
-* Enter your specific notebook name into the **Provisioned product name** field and the **NotebookInstanceName** field. Remember, two users will share the same AWS account. Therefore, we recommend using a naming schema like `notebook-[firstnamelastname]`. After that, click on **Launch product** at the bottom. This will launch your pre-configured GPU-based SageMaker Jupyter notebook server in the background. 
+* Enter your specific notebook name into the **Provisioned product name** field and the **NotebookInstanceName** field.  Remember, two users will share the same AWS account. Therefore, we recommend using a naming schema like `notebook-[firstnamelastname]`. The name must start with a letter (A-Z, a-z) or number (0-9) and can include hyphens (-), but not spaces. After that, click on **Launch product** at the bottom. This will launch your pre-configured GPU-based SageMaker Jupyter notebook server in the background. 
 
 ![image](https://user-images.githubusercontent.com/611112/134419557-46ee3d2d-94a6-43a2-a0f9-79aa6f765918.png)
 
@@ -63,9 +63,9 @@ These setup instructions describe how to access the AWS accounts for the third d
 
 ![image](https://user-images.githubusercontent.com/611112/134421836-1ff822cc-1369-42ff-9d4e-828f9da5ad61.png)
 
-* In the terminal, type `cd SageMaker` and press **Enter**. Then type `https://github.com/zephyrie/bootcamp_test` and press **Enter** again. After that, you will be able to navigate to the notebooks you just downloaded via the file browser on the left
+* In the terminal, type `cd SageMaker` and press **Enter**. Then type `git clone https://github.com/Project-MONAI/MONAIBootcamp2021` and press **Enter** again. After that, you will be able to navigate to the notebooks you just downloaded via the file browser on the left:
 
-![image](https://user-images.githubusercontent.com/611112/134422614-4c74ab74-cc95-44ac-853a-8027df8daf11.png)
+![image](https://user-images.githubusercontent.com/611112/134502649-760221b7-0d5f-4057-ba29-9279676d1c9d.png)
 
 ## Launching Juypter notebooks
 
