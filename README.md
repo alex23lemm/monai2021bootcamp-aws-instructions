@@ -13,7 +13,7 @@ These setup instructions describe how to access the AWS accounts for the third d
 
 ![image](https://user-images.githubusercontent.com/611112/134424689-145d499e-7788-4933-807a-36bf633e5d51.png)
 
-* Enter the email address, which you used when you registered for the bootcamp an 
+* Enter the email address, which you used when you registered for the bootcamp. Using another email address won't allow you to access your temporary AWS account.   
 
 ![image](https://user-images.githubusercontent.com/611112/134425434-5ac86a21-4c63-4adb-b144-dfaa457a090a.png)
 
