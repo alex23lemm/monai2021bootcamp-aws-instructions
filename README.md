@@ -81,7 +81,7 @@ These setup instructions describe how to access the AWS accounts for the third d
 
 **Have fun today and good luck with the mini challenges!**
 
-## IMPORTANT: The notebooks were just updated on 07:45 PT / 10:45 ET / 4:45PM CEST
+## IMPORTANT: The notebooks were just updated on 07:45AM PT / 10:45AM ET / 4:45PM CEST
 
 If you downloaded the notebooks before, please make sure to run through the following instructions:
 
