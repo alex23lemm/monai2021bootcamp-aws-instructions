@@ -71,11 +71,16 @@ These setup instructions describe how to access the AWS accounts for the third d
 
 ![image](https://user-images.githubusercontent.com/611112/134502649-760221b7-0d5f-4057-ba29-9279676d1c9d.png)
 
+* Congratulations! You are now ready to get started. The NVIDIA team will share specific information on the notebooks for the Bootcamp Challenge Day you will use today later during our intro session. But please, keep on reading the last section below.  
+
 ## Launching Juypter notebooks
 
 **Important**: When selecting and launching a notebook, you will be asked to select your preferred kernel. Please make sure to always select the `conda_pytorch-latest_p36 kernel`:
 
 ![image](https://user-images.githubusercontent.com/611112/134423773-4b5983c5-a631-44d2-bade-3a302e19f733.png)
+
+**Have fun today and good luck with the mini challenges!**
+
 
 
 
