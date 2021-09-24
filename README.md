@@ -81,12 +81,12 @@ These setup instructions describe how to access the AWS accounts for the third d
 
 **Have fun today and good luck with the mini challenges!**
 
-## IMPORTANT: The notebooks were just updated on 4:45PM PT
+## IMPORTANT: The notebooks were just updated on 07:45 PT / 10:45 ET / 4:45PM CEST
 
 If you downloaded the notebooks before, please make sure to run through the following instructions:
 
-* In Jupyter Lab, click on File > New > Terminal. In the terminal, type `cd SageMaker` and press Enter. 
-* Then type `git pull https://github.com/Project-MONAI/MONAIBootcamp2021` and press Enter again.
+* In Jupyter Lab, click on **File > New > Terminal**. In the terminal, type `cd SageMaker` and press **Enter**. 
+* Then type `git pull https://github.com/Project-MONAI/MONAIBootcamp2021` and press **Enter** again.
 
 ## Additional resources for another day
 Below, we also added the links to the recourses, which were mentioned in the AWS on MONAI session on Day 2.  
