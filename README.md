@@ -71,7 +71,7 @@ These setup instructions describe how to access the AWS accounts for the third d
 
 ![image](https://user-images.githubusercontent.com/611112/134502649-760221b7-0d5f-4057-ba29-9279676d1c9d.png)
 
-* Congratulations! You are now ready to get started. The NVIDIA team will share specific information on the notebooks for the Bootcamp Challenge Day you will use today later during our intro session. But please, keep on reading the last section below.  
+* Congratulations! You are now ready to get started. **The NVIDIA team will share specific information on the notebooks for the Bootcamp Challenge Day you will use today later during our intro session**. But please, keep on reading the last section below.  
 
 ## Launching Juypter notebooks
 
