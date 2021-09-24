@@ -41,9 +41,13 @@ These setup instructions describe how to access the AWS accounts for the third d
 
 ![image](https://user-images.githubusercontent.com/611112/134419214-c6b12074-f91c-4ff8-9227-daa82c3fc439.png)
 
-* Enter your specific notebook name into the **Provisioned product name** field and the **NotebookInstanceName** field.  Remember, two users will share the same AWS account. Therefore, we recommend using a naming schema like `notebook-[firstnamelastname]`. The name must start with a letter (A-Z, a-z) or number (0-9) and can include hyphens (-), but not spaces. After that, click on **Launch product** at the bottom. This will launch your pre-configured GPU-based SageMaker Jupyter notebook server in the background. 
+* Enter your specific notebook name into the **Provisioned product name** field and the **NotebookInstanceName** field.  Remember, two users will share the same AWS account. Therefore, we recommend using a naming schema like `notebook-[firstnamelastname]`. The name must start with a letter (A-Z, a-z) or number (0-9) and can include hyphens (-), but not spaces. After that, click on **Launch product** at the bottom of the page (The launch button is not shown in the screenshot below). This will launch your pre-configured GPU-based SageMaker Jupyter notebook server in the background. 
 
 ![image](https://user-images.githubusercontent.com/611112/134419557-46ee3d2d-94a6-43a2-a0f9-79aa6f765918.png)
+
+* After that, you will see a notification on the top of the page that your notebook is being launched:
+
+![image](https://user-images.githubusercontent.com/611112/134648396-2f8d384f-790c-4d5e-8447-5b244afcb109.png)
 
 * Now, we can leave Service Catalog.In the search bar at the top, enter "sagemaker" and click on **SageMaker** in the search result list:
 
