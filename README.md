@@ -81,8 +81,25 @@ These setup instructions describe how to access the AWS accounts for the third d
 
 **Have fun today and good luck with the mini challenges!**
 
+## Additional resources for another day
+Below, we also added the links to the recourses, which were mentioned in the AWS on MONAI session on Day 2.  
 
+### Basic AWS tutorials
+* Launching a Deep Learning AMI: https://aws.amazon.com/getting-started/hands-on/train-deep-learning-model-aws-ec2-containers/ 
+* Launching a Deep Learning Container: https://aws.amazon.com/getting-started/hands-on/get-started-dlami/ 
+* SageMaker Technical Deep Dive Series: https://www.youtube.com/watch?v=uQc8Itd4UTs&list=PLhr1KZpdzukcOr_6j_zmSrvYnLUtgqsZz
+ 
+### MONAI on SageMaker blog posts and repos
+* Build a medical image analysis pipeline on Amazon SageMaker using the MONAI framework: https://aws.amazon.com/blogs/industries/build-a-medical-image-analysis-pipeline-on-amazon-sagemaker-using-the-monai-framework/
+* GitHub repo: https://github.com/aws-samples/amazon-sagemaker-monai-examples
+ 
+* Annotate DICOM images and build an ML model using the MONAI framework on Amazon SageMaker: https://aws.amazon.com/blogs/machine-learning/annotate-dicom-images-and-build-an-ml-model-using-the-monai-framework-on-amazon-sagemaker/
+* GitHub repo: https://github.com/aws-samples/annotate-medical-images-in-dicom-server-and-build-ml-models-on-amazon-sagemaker
+ 
+### ML-related Medical Imaging Challenges
+* Grand-challenge: https://grand-challenge.org
 
-
+### Misc
+* MONAI dataset (Medical Segmentation Decathlon) on the Registry of Open Data: https://registry.opendata.aws/msd/
 
 
